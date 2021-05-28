@@ -1,4 +1,4 @@
-# PetStation 🐶🐱🐹
+# PawStation 🐶🐱🐹
 
 ### Created with love by: Tia
 
